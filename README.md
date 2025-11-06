@@ -7,8 +7,8 @@ I have also worked at **ISRO (Indian Space Research Organisation)** as an intern
 
 Through my **DSML program at Scaler Academy (completing this year)**, **open-source projects**, and **freelancing**, I’ve built a strong foundation in applied machine learning and data science.  
 
-🌍 **Actively seeking Data Science roles in Germany** where I can drive data-driven solutions and innovation.  
-🗣 **Proficient in German language (A1)** — ready to collaborate in multilingual, multicultural environments.
+🌍 **Actively seeking Data Analysis roles in Germany** where I can drive data-driven solutions and innovation.  
+🗣 **Proficient in German language (B1)** — ready to collaborate in multilingual, multicultural environments.
 
 ---
 
